@@ -28,7 +28,7 @@ public let kCUSTOMERNAME = "customerName"
 public let kISCOMPLETED = "isCompleted"
 
 
-//FUser
+//FUsers
 public let kEMAIL = "email"
 public let kFIRSTNAME = "firstname"
 public let kLASTNAME = "lastname"
