@@ -10,7 +10,7 @@ import Foundation
 
 public let userDefaults = UserDefaults.standard
 
-//Drink
+//Drinks
 public let kID = "id"
 public let kNAME = "name"
 public let kPRICE = "price"
